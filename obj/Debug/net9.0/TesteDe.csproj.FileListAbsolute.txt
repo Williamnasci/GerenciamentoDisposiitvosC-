@@ -1,0 +1,14 @@
+C:\Users\cesar\OneDrive\Desktop\TesteDe\bin\Debug\net9.0\TesteDe.exe
+C:\Users\cesar\OneDrive\Desktop\TesteDe\bin\Debug\net9.0\TesteDe.deps.json
+C:\Users\cesar\OneDrive\Desktop\TesteDe\bin\Debug\net9.0\TesteDe.runtimeconfig.json
+C:\Users\cesar\OneDrive\Desktop\TesteDe\bin\Debug\net9.0\TesteDe.dll
+C:\Users\cesar\OneDrive\Desktop\TesteDe\bin\Debug\net9.0\TesteDe.pdb
+C:\Users\cesar\OneDrive\Desktop\TesteDe\obj\Debug\net9.0\TesteDe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Desktop\TesteDe\obj\Debug\net9.0\TesteDe.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Desktop\TesteDe\obj\Debug\net9.0\TesteDe.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Desktop\TesteDe\obj\Debug\net9.0\TesteDe.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Desktop\TesteDe\obj\Debug\net9.0\TesteDe.dll
+C:\Users\cesar\OneDrive\Desktop\TesteDe\obj\Debug\net9.0\refint\TesteDe.dll
+C:\Users\cesar\OneDrive\Desktop\TesteDe\obj\Debug\net9.0\TesteDe.pdb
+C:\Users\cesar\OneDrive\Desktop\TesteDe\obj\Debug\net9.0\TesteDe.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Desktop\TesteDe\obj\Debug\net9.0\ref\TesteDe.dll
